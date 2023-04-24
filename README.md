@@ -1,3 +1,3 @@
 # academic
-<img src="https://user-images.githubusercontent.com/117736635/233950889-bed1ee3e-4b62-4a0c-8d91-2dd5bb18375d.png width="300" height="200"/>
+<img src = "https://user-images.githubusercontent.com/117736635/233952878-bd1c6a4e-fa4f-4ec6-b0d4-ab277e084536.png" width="30%" height="30%">
 로그인 폼
